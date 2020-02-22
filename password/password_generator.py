@@ -87,6 +87,3 @@ if "__main__" == __name__:
     else:
         Gen_Pass(num, passwd)
 
-
-
-
